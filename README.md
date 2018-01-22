@@ -1,6 +1,7 @@
 # char-sortinator
 
 Plan of Attack
+
 [] As a client, I have a form that's centered vertically and horizontally on the page
 
 [] On such form, when submitted, sends a post request to the server (endpoint /stringSort)
