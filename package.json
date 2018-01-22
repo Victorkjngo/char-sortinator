@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Victorkjngo/char-sortinator/issues"
   },
-  "homepage": "https://github.com/Victorkjngo/char-sortinator#readme"
+  "homepage": "https://github.com/Victorkjngo/char-sortinator#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
 }
